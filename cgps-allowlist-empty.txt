@@ -1,0 +1,2 @@
+# Intentionally empty. Allowlisting is handled by the Cloudflare
+# native "My Allowlist" DNS policy (precedence 1), not by CGPS.
